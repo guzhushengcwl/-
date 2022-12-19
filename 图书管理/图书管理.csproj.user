@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Addbook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteAttendant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Deletebook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Deleteuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pw_reset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateAttendant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Updatebook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="信息管理.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="修改图书.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="借还书.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="删除图书.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="图书查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="增加图书.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="图书管理系统DataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="图书管理系统DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="图书管理系统DataSet2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
